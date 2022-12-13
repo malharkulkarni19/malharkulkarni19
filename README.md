@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Javascript, Bootstrap & React.**
 
-- 📫 How to reach me **malharkulkarni1@gmail.com**
+- 📫 How to reach me **malharkulkarni19@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
