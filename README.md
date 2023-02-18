@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- 😍 My Portfolio Website [https://github.com/malharkulkarni19](https://malharkulkarni19.netlify.com)
+- 😍 My Portfolio Website [https://malharkulkarni19.netlify.com](https://malharkulkarni19.netlify.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
